@@ -1,0 +1,11 @@
+Vérifier l’état (Étape 1) :
+git status
+
+Préparer la modification (Étape 2) :
+git add index.html
+
+Créer le commit officiel (Étape 3) :
+git commit -m "feat: ajout du message de bienvenue dans la page d'accueil"
+
+Confirmer la propreté du dépôt (Étape 4) :
+git status
