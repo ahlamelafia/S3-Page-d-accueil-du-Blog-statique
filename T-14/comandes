@@ -8,4 +8,4 @@ Créer le commit officiel (Étape 3) :
 git commit -m "feat: ajout du message de bienvenue dans la page d'accueil"
 
 Confirmer la propreté du dépôt (Étape 4) :
-git status
+git status.
